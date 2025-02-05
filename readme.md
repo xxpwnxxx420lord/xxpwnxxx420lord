@@ -23,7 +23,7 @@ Hello i am a person making cool things and im cool coz im cool and yes 👍 anyw
 - I am learning how to build a bomb
 
 ### Projects ✨
-1. 👹 [onyx](https://github.com/xxpwnxxx420lord/Onyx/blob/main) it is a lighting and humanoid manager
+1. 👹 [onyx](https://github.com/xxpwnxxx420lord/Onyx/blob/main) is a lighting and humanoid manager
 
 ### Just for Fun 💨
 -- working on a anticheat
