@@ -13,11 +13,7 @@ Hello i am a person making cool things and im cool coz im cool and yes 👍 anyw
 
 > **NOTE**: A bunch of stuff I make can be found in **GitHub Organizations** rather than my personal repositories.
 > <br>Usually, I preserve personal repositories for stuff I'm really proud of
-
-### Tech Stack
-
-> Knowledgeable in 6 programming languages, which some may know as being a polyglot programmer, [learn more](https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming#:~:text=Polyglot%20programming%20is%20the%20practice%20of%20writing%20code,can%20speak%20and%20use%20at%20least%20four%20languages.)
-
+> 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%23F7DF1E.svg?style=for-the-badge&logo=roblox&logoColor=black)
