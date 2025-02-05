@@ -8,8 +8,7 @@ Hello i am a person making cool things and im cool coz im cool and yes 👍 anyw
 ### Interests & Hobbies
 * **Programming**:  I love to code in various languages, mostly listed below. 🖥️
 * **Backends**: I really love designing APIs and creating lightweight and fast servers. 🌐
-* **iOS Software**: I personally enjoy creating iOS apps, and you may be seeing a few sample apps appear on my account. 📱
-* **Webpages**: I enjoy working with ReactJS and TailwindCSS to create smooth, stable frontend websites. 🔍
+
 
 > **NOTE**: A bunch of stuff I make can be found in **GitHub Organizations** rather than my personal repositories.
 > <br>Usually, I preserve personal repositories for stuff I'm really proud of
