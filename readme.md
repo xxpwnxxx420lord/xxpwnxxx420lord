@@ -24,6 +24,7 @@ Hello i am a person making cool things and im cool coz im cool and yes 👍 anyw
 
 ### Projects ✨
 1. 👹 [onyx](https://github.com/xxpwnxxx420lord/Onyx/blob/main) is a lighting and humanoid manager
+1. 🔫 [roblox username sniper](https://github.com/xxpwnxxx420lord/user-sniper) | this is self explainatory
 
 ### Just for Fun 💨
--- working on a anticheat
+-- learning to make roblox-ts projects
