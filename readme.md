@@ -28,6 +28,6 @@ Im syntaxical, a luau developer ive made a fair bit of projects on my [old accou
 
 ### Organisations
 [barnical](https://github.com/barnical/barnical.github.io) - this is not a organisation but a repo because i didnt know organisations existed but then xd (a repo on my acc barnical)
-[abusing roblox](https://github.com/abusingroblox) - this organisation is just me abusing robloxx's api
+[robloxapiabusing](https://github.com/abusingroblox) - this organisation is just me abusing robloxx's api
 ### Socials:
 You can contact me on [my discord server](https://discord.gg/MN8tAa5Ben) or at my email ```triocantgetme@gmail.com```
