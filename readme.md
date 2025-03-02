@@ -22,12 +22,12 @@ Im syntaxical, a luau developer ive made a fair bit of projects on my [old accou
 
 
 ### Projects
-🍫 [barnical](barnical.github.io) - Barnical is a very nice, clean website full of games with no ads at all!
+🍫 [barnical](https://barnical.github.io) - Barnical is a very nice, clean website full of games with no ads at all!
 👹 [onyx](https://github.com/xxpwnxxx420lord/Onyx/blob/main) - a pretty clean luaU script that is a lighting / humanoid manager
 🔫 [roblox username sniper](https://github.com/xxpwnxxx420lord/user-sniper) - this is self explainatory (a thing that can find vaild 5 letter usernames
 
 ### Organisations
-[barnical](github.com/barnical/barnical.github.io) - this is not a organisation but a repo because i didnt know organisations existed but then xd (a repo on my acc barnical)
+[barnical](https://github.com/barnical/barnical.github.io) - this is not a organisation but a repo because i didnt know organisations existed but then xd (a repo on my acc barnical)
 
 ### Socials:
 You can contact me on [my discord server](https://discord.gg/MN8tAa5Ben) or at my email ```triocantgetme@gmail.com```
