@@ -28,6 +28,8 @@ Im syntaxical, a luau developer ive made a fair bit of projects on my [old accou
 
 🔫 [roblox username sniper](https://github.com/abusingroblox/5-letter-name-sniper) - this is self explainatory (a thing that can find vaild 5 letter usernames
 
+🤖 [Python bot](https://github.com/xxpwnxxx420lord/python-bot) - this basically has cool features as a bot for discord
+
 ### Organisations
 [barnical](https://github.com/barnical/barnical.github.io) - this is not a organisation but a repo because i didnt know organisations existed but then xd (a repo on my acc barnical)
 [robloxapiabusing](https://github.com/abusingroblox) - this organisation is just me abusing robloxx's api
