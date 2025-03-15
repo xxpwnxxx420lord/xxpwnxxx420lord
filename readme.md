@@ -28,7 +28,7 @@ Im syntaxical, a luau developer ive made a fair bit of projects on my [old accou
 - 🤖 [Python bot](https://github.com/xxpwnxxx420lord/python-bot) - this basically has cool features as a bot for discord
 - 🦵[discord to roblox kick command](https://github.com/xxpwnxxx420lord/discord-to-roblox-kicking/tree/main) - self explanatory
 ### Organisations
-[barnical](https://github.com/barnical/barnical.github.io) - this is not a organisation but a repo because i didnt know organisations existed but then xd (a repo on my acc barnical)
-[robloxapiabusing](https://github.com/abusingroblox) - this organisation is just me abusing robloxx's api
+- [barnical](https://github.com/barnical/barnical.github.io) - this is not a organisation but a repo because i didnt know organisations existed but then xd (a repo on my acc barnical)
+- [robloxapiabusing](https://github.com/abusingroblox) - this organisation is just me abusing robloxx's api
 ### Socials:
 You can contact me on [my discord server](https://discord.gg/MN8tAa5Ben) or at my email ```triocantgetme@gmail.com```
