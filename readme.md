@@ -23,7 +23,6 @@ Im syntaxical, a luau developer ive made a fair bit of projects on my [old accou
 
 ### Projects
 - 🍫 [barnical](https://barnical.github.io) - Barnical is a very nice, clean website full of games with no ads at all!
-- 👹 [onyx](https://github.com/xxpwnxxx420lord/Onyx/blob/main) - a pretty clean luaU script that is a lighting / humanoid manager
 - 🔫 [roblox username sniper](https://github.com/abusingroblox/5-letter-name-sniper) - this is self explainatory (a thing that can find vaild 5 letter usernames
 - 🤖 [Python bot](https://github.com/xxpwnxxx420lord/python-bot) - this basically has cool features as a bot for discord
 - 🦵[discord to roblox kick command](https://github.com/xxpwnxxx420lord/discord-to-roblox-kicking/tree/main) - self explanatory
