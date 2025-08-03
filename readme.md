@@ -25,6 +25,6 @@ Hey!!! Welcome to my github! You can find all of my projects here including: Ink
 - [barnical](https://github.com/barnical/barnical.github.io) - this is not a organisation but a repo because i didnt know organisations existed but then xd (a repo on my acc barnical)
 - [robloxapiabusing](https://github.com/abusingroblox) - this organisation is just me abusing robloxx's api and has random sideprojects 
 ### Socials:
-You can contact me on [my discord server](https://discord.gg/MN8tAa5Ben) or at my email ```triocantgetme@gmail.com```
+You can contact me on [my discord](https://discord.gg/thaemeCwFH) or at my email ```triocantgetme@gmail.com```
 
 bye ＼(^_^)／
