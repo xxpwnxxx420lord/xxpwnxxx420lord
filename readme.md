@@ -1,15 +1,53 @@
-# フェリス・ナザダド・バジンガ こんにちは。
+# Hey, I'm Johnny! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![barnical.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-![Discord](https://dcbadge.limes.pink/api/shield/1184740148487925851)
+###
 
-<p align="center">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/chrome.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+<div align="center">
+  <img height="" src="https://github.com/user-attachments/assets/344e2b17-58f2-4c70-9bb7-4ec90c427ce7"  />
+</div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qgvxqag7nhukyxctunnrzygu64&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+###
 
-</p>
+<h2 align="center">About Me</h2>
+
+###
+
+🤖 I **LOVE** coding and there are some really cool projects in my bio.\
+💻 I made a really cool unblocked games site (barnical.github.io)\
+🤝I sometimes draw
+🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+###
+
+<h2 align="center">My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxpwnxxx420lord&theme=bear" width=750  alt="stats graph"/>
+
+</div>
+
+###
+
+<h2 align="center">Techs I Use</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="center">Find Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/1184740148487925851" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
+  </div>
+
+###
+
 
