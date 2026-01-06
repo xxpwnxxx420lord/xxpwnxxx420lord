@@ -9,5 +9,8 @@
 ( Estimate ) 
 
 # 
-<a title="My website" href="https://barnical.github.io"><img src="https://github.com/user-attachments/assets/284d6399-859b-467c-9486-75049698d009" width="88px" style="image-rendering: pixelated;">
+<a title="My website" href="https://barnical.github.io"><img src="https://github.com/user-attachments/assets/13a806be-e597-40c0-bf21-b553a264ec9e" width="88px" style="image-rendering: pixelated;">
 <a title = "Cowbunga"><img src="https://github.com/user-attachments/assets/f6f8481d-ffe8-46be-b056-8675d8b319a0" width="88px" style="image-rendering: pixelated;">
+<a title = "Cowbunga"><img src="https://88x31.nl/gifs/iinet.gif" width="88px" style="image-rendering: pixelated;">
+<a title = "Cowbunga"><img src="https://88x31.nl/gifs/nofuckingthanks.gif" width="88px" style="image-rendering: pixelated;">
+<a title = "Cowbunga"><img src="https://88x31.nl/gifs/vermoonper.gif" width="88px" style="image-rendering: pixelated;">
