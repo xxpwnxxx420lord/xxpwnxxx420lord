@@ -1,7 +1,10 @@
 # Hey, I'm Johnny! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
-  <img height="" src="https://github.com/user-attachments/assets/b90ebead-8a70-47e6-8628-2b980cfe55d2"  />
+
+<div align="center">
+  <img height="" src="https://github.com/user-attachments/assets/344e2b17-58f2-4c70-9bb7-4ec90c427ce7"  />
+</div>
 
 ###
 
@@ -46,5 +49,4 @@
   </div>
 
 ###
-
 
