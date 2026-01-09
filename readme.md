@@ -24,7 +24,7 @@
     </tr>
   </table>
 
-  <p><i>Estimates, not gospel.</i></p>
+  <p><i>Estimates</i></p>
 
   <br>
 
