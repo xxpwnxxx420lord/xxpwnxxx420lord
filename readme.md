@@ -1,4 +1,3 @@
-<img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/b6337e9a-1314-47c3-a1f6-339f38a72f69" /># Hello! I'm Syntaxical (Hola! me nombre es Syntaxical)
 
 | Language    | Knowledge |
 | -------- | ------- |
