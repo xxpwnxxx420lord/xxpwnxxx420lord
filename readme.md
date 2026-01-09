@@ -1,7 +1,8 @@
 <div align="center">
 
 <h1>Hey I'm Syntaxical!</h1>
-I code cool/uncool games/exploits on a lego game and I am friends with alot of people!
+I code cool/uncool games/exploits on a lego game and I am friends with alot of people! Anyways look at my coding knowledge
+###
 <table>
   <tr>
     <th>Language</th>
