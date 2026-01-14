@@ -1,6 +1,7 @@
 <div align="center">
 
-  <h1>Hey, I'm Syntaxical!</h1>
+  
+  <img width="2560" height="1224" alt="syntax_2560x1224" src="https://github.com/user-attachments/assets/906d43f9-97c7-48d4-97fe-7c5949c85412" />
 
   <table>
     <tr>
