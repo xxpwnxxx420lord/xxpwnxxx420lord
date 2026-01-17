@@ -49,8 +49,6 @@
     <img src="https://88x31.nl/gifs/vermoonper.gif" width="88" style="image-rendering: pixelated;">
     <img src="https://github.com/user-attachments/assets/12ec200b-a426-4f51-ab3c-23a255618cc2" width="88" style="image-rendering: pixelated;">
     <img src="https://transgirls.win/assets/media/nyancat.gif" width="88" style="image-rendering: pixelated;">
-    <iframe src="//incr.easrng.net/badge?key=changeme" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
-
   </div>
 
 </div>
