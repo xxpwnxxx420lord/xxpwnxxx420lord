@@ -41,7 +41,7 @@
 
   <div>
     <a href="https://barnical.github.io" title="My website">
-      <img src="https://github.com/user-attachments/assets/13a806be-e597-40c0-bf21-b553a264ec9e" width="88" style="image-rendering: pixelated;">
+      <img src="https://github.com/user-attachments/assets/5fb6d328-f25b-4747-8fbe-a2e338ed0630" width="88" style="image-rendering: pixelated;">
     </a>
     <img src="https://github.com/user-attachments/assets/f6f8481d-ffe8-46be-b056-8675d8b319a0" width="88" style="image-rendering: pixelated;">
     <img src="https://88x31.nl/gifs/iinet.gif" width="88" style="image-rendering: pixelated;">
