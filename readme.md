@@ -8,26 +8,30 @@
 
 ## Skills
 
-| Language   | Knowledge |
-|------------|----------|
-| LuaU       | 75%      |
-| Python     | 37%      |
-| JavaScript | 17%      |
+<p align="center">
+  <img src="https://img.shields.io/badge/LuaU-75%25-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-37%25-3572A5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-17%25-f7df1e?style=for-the-badge" />
+</p>
 
-*Estimates*
+<p align="center"><i>Estimates</i></p>
 
 ---
 
 ## Projects
 
-- [Roblox Scripts](https://github.com/xxpwnxxx420lord/Scripts)
-- [Cmd-XYZ](https://github.com/xxpwnxxx420lord/Cmd-XYZ)
-- [barnical](https://barnical.github.io/)
-- [barnical source](https://github.com/barnical/barnical.github.io)
-- [Old Scripts](https://github.com/Old-Obfuscated-Scripts)
-- [Media Player](https://github.com/random-projects-coz-bored-and-ye/Media-Player)
-- [Discord ↔ Roblox Controller](https://github.com/random-projects-coz-bored-and-ye/Websocket-Discord-bot)
+<p align="center">
+
+- [Roblox Scripts](https://github.com/xxpwnxxx420lord/Scripts)  
+- [Cmd-XYZ](https://github.com/xxpwnxxx420lord/Cmd-XYZ)  
+- [barnical](https://barnical.github.io/)  
+- [barnical source](https://github.com/barnical/barnical.github.io)  
+- [Old Scripts](https://github.com/Old-Obfuscated-Scripts)  
+- [Media Player](https://github.com/random-projects-coz-bored-and-ye/Media-Player)  
+- [Discord ↔ Roblox Controller](https://github.com/random-projects-coz-bored-and-ye/Websocket-Discord-bot)  
 - [5-letter Username Checker](https://github.com/abusingroblox/5-letter-name-sniper)
+
+</p>
 
 ---
 
