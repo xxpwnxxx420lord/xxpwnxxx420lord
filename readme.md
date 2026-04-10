@@ -1,48 +1,18 @@
-<div align="center">
+<h1 align="center">Hey I'm Johnny (syntaxical)!</h1><br>
+<div align=center>
+<img src="https://img.shields.io/badge/CodeDex-Xxpwnxxx420lord-yellow" alt="badge" />
+<img src="https://img.shields.io/badge/Email-johnny.west9283@gmail.com-red" alt="badge" />
+<img src="https://img.shields.io/badge/Website-syntaxical.space-darkgreen" alt="badge" />
+</div><br>
+<p align="center">Hey I mostly code lego exploits (check out @**transicle** shes cool!) </p><br>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" width="40" alt="lua" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" alt="java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="html5" />
+</div><br>
+<div align="center"><img src="https://github-profile-trophy.vercel.app?username=xxpwnxxx420lord&theme=dracula&title=Commits%2CReviews%2CExperience%2CIssues%2CPullRequest%2CStars%2CRepositories%2CFollowers&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"/></div>
 
 <img width="2560" height="1224" alt="syntax_2560x1224" src="https://github.com/user-attachments/assets/906d43f9-97c7-48d4-97fe-7c5949c85412" />
-
-</div>
-
----
-
-## Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LuaU-75%25-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-37%25-3572A5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-17%25-f7df1e?style=for-the-badge" />
-</p>
-
-<p align="center"><i>Estimates</i></p>
-
----
-
-## Projects
-
-<p align="center">
-
-- [Roblox Scripts](https://github.com/xxpwnxxx420lord/Scripts)  
-- [Cmd-XYZ](https://github.com/xxpwnxxx420lord/Cmd-XYZ)  
-- [barnical](https://barnical.github.io/)  
-- [barnical source](https://github.com/barnical/barnical.github.io)  
-- [Old Scripts](https://github.com/Old-Obfuscated-Scripts)  
-- [Media Player](https://github.com/random-projects-coz-bored-and-ye/Media-Player)  
-- [Discord ↔ Roblox Controller](https://github.com/random-projects-coz-bored-and-ye/Websocket-Discord-bot)  
-- [5-letter Username Checker](https://github.com/abusingroblox/5-letter-name-sniper)
-
-</p>
-
----
-
-## Badges
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5fb6d328-f25b-4747-8fbe-a2e338ed0630" width="88" />
-  <img src="https://github.com/user-attachments/assets/f6f8481d-ffe8-46be-b056-8675d8b319a0" width="88" />
-  <img src="https://88x31.nl/gifs/iinet.gif" width="88" />
-  <img src="https://88x31.nl/gifs/nofuckingthanks.gif" width="88" />
-  <img src="https://88x31.nl/gifs/vermoonper.gif" width="88" />
-  <img src="https://github.com/user-attachments/assets/12ec200b-a426-4f51-ab3c-23a255618cc2" width="88" />
-  <img src="https://transgirls.win/assets/media/nyancat.gif" width="88" />
-</p>
