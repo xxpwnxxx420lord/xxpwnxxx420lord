@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Email-johnny.west9283@gmail.com-red" alt="badge" />
 <img src="https://img.shields.io/badge/Website-syntaxical.space-darkgreen" alt="badge" />
 </div><br>
-<p align="center">Hey I mostly code lego exploits (check out @**transicle** shes cool!) </p><br>
+<p align="center">Hey I mostly code lego exploits (check out @<b>transicle</b>shes cool!) </p><br>
 <div align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="git" />
