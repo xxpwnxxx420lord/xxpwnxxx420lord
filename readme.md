@@ -1,75 +1,26 @@
+<h1 align="center">Who I Am (≧∇≦)ﾉ</h1>
 <div align="center">
-
-```
-// xxpwnxxx420lord
-```
-
-# syntaxical
-
-**Johnny West — exploit dev & general menace**
-
-</div>
-
----
-
+  I'm <a href="https://syntaxical.space">Johnny</a>, and I'm a programmer who enjoys making random projects in my free time or whenever I feel sad or just wanting something to do.. I hope you find whatever you're looking for!! <b>٩(＾◡＾)۶</b>
+</div><br>
+<p align="center"><b>Straight</b> [📏] <b>⬩~⬩ Roblox exploit Developer ⬩~⬩ Basically FS</b></p>
 <div align="center">
-
-![CodeDex](https://img.shields.io/badge/CodeDex-Xxpwnxxx420lord-161b22?style=flat-square&labelColor=161b22&color=d29922)
-![Email](https://img.shields.io/badge/Email-johnny.west9283%40gmail.com-161b22?style=flat-square&labelColor=161b22&color=f85149)
-![Website](https://img.shields.io/badge/Website-syntaxical.space-161b22?style=flat-square&labelColor=161b22&color=3fb950)
-
-</div>
-
-<div align="center">
-
-Lego exploit dev — check out [**@transicle**](https://github.com/transicle), she's cool!
-
-</div>
-
----
-
-### `// stack`
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="36" width="36" title="Lua" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="36" width="36" title="Python" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="36" width="36" title="Java" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="36" width="36" title="HTML5" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="36" width="36" title="Git" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36" width="36" title="VS Code" />
-
-</div>
-
----
-
-### `// trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xxpwnxxx420lord&theme=dracula&title=Commits,Reviews,Experience,Issues,PullRequest,Stars,Repositories,Followers&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies" />
-
-</div>
-
----
-
-### `// stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xxpwnxxx420lord&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxpwnxxx420lord&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=6" />
-
-</div>
-
----
-
-<div align="center">
-<sub>syntaxical.space</sub>
-</div>
+  <h2>Programming Languages, Text Editors, IDEs, And other stuff I use, (✿◡‿◡)</h2>
+  <!-- https://github.com/Ileriayo/markdown-badges -->
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+  ![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
+  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+</div><br>
+<p align="center">
+  <a href="https://syntaxical.space">syntaxical.space</a> • 
+  <a href="https://asoftmurmur.com/">A soft murmur</a> • 
+  <a href="https://github.com/transicle">view Lily's work</a> <b>:3</b>
+</p>
