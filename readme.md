@@ -23,5 +23,5 @@
   <a href="https://syntaxical.space">syntaxical.space</a> • 
   <a href="https://asoftmurmur.com/">A soft murmur</a> • 
   <a href="https://github.com/transicle">view Lily's work</a> <b>:3</b>
-  <img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/d2d0e42b-56e7-4efe-b9dc-fe7c969fd44b" />
 </p>
+  <img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/d2d0e42b-56e7-4efe-b9dc-fe7c969fd44b" />
